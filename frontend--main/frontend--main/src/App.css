@@ -1,0 +1,122 @@
+.Landing {
+  background-image: url(img1.jpg);
+  background-repeat: no-repeat;
+  background-size: 1600px 700px;
+  height: 700px;
+  padding: 130px;
+
+}
+.App {
+  text-align: center;
+}
+.big-Title {
+  color: aliceblue;
+  font-size: 90px;
+  text-align: center;
+}
+.div1 {
+  margin-top: 150px;
+  margin-left: 350px;
+  margin-right: 350px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.bg-Footer {
+  padding-bottom: 20px;
+  padding-top: 40px;
+  padding-left: 50px;
+  background-color: #ffbf80;
+  margin-top: 0px;
+  }
+
+.icon {
+  width: 200px;
+  text-align: left;
+  font-size: 20px;
+}
+.icone {
+  width: 300px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.img2 {
+  width: 100px;
+  height: 100px;
+  margin-left: 0px;
+  position:absolute;
+  left: 10px;
+  top:10px;
+  
+}
+
+.fb-btn {
+  color: darken(#d3dae9, 20%);
+}
+
+.submit {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  background: #ffbf80;
+  text-transform: uppercase;
+}
+
+.sign-up {
+  position: relative;
+  height: 100%;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.form-sign-up {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around ;
+
+}
+ .sign-up {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around ;
+
+ }
+
+ .img3 {
+   width: 500px;
+   height: 500px;
+ }
+
+ .inputBox {
+  display: flex;
+  flex-direction: column;
+ }
+
+ label {
+  font-size: 20px;
+}
+
+body {
+  background-color :  #4d4d4d ;
+}
+
+.input {
+  border-bottom: 2px solid orange;
+  background-color: #4d4d4d;
+}
+
+
+h3 {
+  font-size: 50px;
+  color: antiquewhite;
+}
+
+h4{
+  color: orange;
+
+}
+
+
